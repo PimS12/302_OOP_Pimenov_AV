@@ -1,0 +1,19 @@
+{
+    "name": "fastr/task04",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/compareStrings.php",
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "PimS12",
+            "email": "apimenoffs@gmail.com"
+        }
+    ],
+    "require": {}
+}
