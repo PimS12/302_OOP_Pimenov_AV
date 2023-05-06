@@ -1,0 +1,17 @@
+{
+    "name": "fastr/task06_2",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PimS12",
+            "email": "apimenoffs@gmail.com"
+        }
+    ]
+}
