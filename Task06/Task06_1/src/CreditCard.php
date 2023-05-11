@@ -17,4 +17,9 @@ class CreditCard
     {
         return "Authorization code: 234da";
     }
+
+    public function __get($property)
+    {
+        return $this->$property;
+    }
 }
